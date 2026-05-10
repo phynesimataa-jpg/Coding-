@@ -1,2 +1,2 @@
-st.title("hello simataa")
+st.print("hello simataa")
  
