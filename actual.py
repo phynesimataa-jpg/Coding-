@@ -1,2 +1,2 @@
-st.print("hello simataa")
+print("hello simataa")
  
